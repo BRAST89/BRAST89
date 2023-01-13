@@ -3,7 +3,10 @@
 I am a .net and web software developer
 
 ### Skills:
-(https://img.shields.io/badge/Java-300C84?style=for-the-badge&logo=appveyor)</br>
+Java
+Python
+HTML Y CSS
+Visual Basic
 
 <!--
 **BRAST89/BRAST89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
