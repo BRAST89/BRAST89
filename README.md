@@ -3,9 +3,9 @@
 I am a .net and web software developer
 
 ### Skills:
-Java
-Python
-FrontEnd
+Java,
+Python,
+JavaScript
 
 
 <!--
