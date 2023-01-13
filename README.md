@@ -5,8 +5,8 @@ I am a .net and web software developer
 ### Skills:
 Java
 Python
-HTML Y CSS
-Visual Basic
+FrontEnd
+
 
 <!--
 **BRAST89/BRAST89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
