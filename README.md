@@ -1,6 +1,6 @@
 ### Hi there 👋  My Name is Brayan Duran
 
-I am a .net and web software developer
+I am a .net and web software developer of Colombia
 
 ### Skills:
 Java,
