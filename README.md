@@ -1,4 +1,4 @@
-### Hi there 👋  My Name is Brayan  Duran
+### Hi there 👋  My Name is Steven  Duran
 I am a .net and web software developer of Colombia
 
 ### Skills:
