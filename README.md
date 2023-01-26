@@ -3,7 +3,7 @@ I am a .net and web software developer of Colombia
 
 ### Skills:
 Java,
-Python,
+Pyton,
 JavaScript
 
 
